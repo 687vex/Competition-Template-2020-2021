@@ -47,7 +47,7 @@ void forward(int ticks, int speed=80){ ... }
 ### Other Comment Commands
 
 - **@warning** _warning for other developers_
+- **@bug** _bugs in the program that need to be fixed_
 - **@details** _more indepth description_
 - **@todo** _something that needs to be done_
 - **etc...**
-http://www.stack.nl/~dimitri/doxygen/manual/commands.html
