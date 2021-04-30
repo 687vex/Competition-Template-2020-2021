@@ -18,7 +18,7 @@ In this repository, you will find the competition template of CAMS VEX 687: The 
 # Competition Code Template
 
 ## Instructions for Team 241:
-This is the competition template for CAMS VEX 687: The Nerd Herd for the 2020-2021 season. Your team's programming leader will fork this repository; you will make commits to your team's fork.
+This is the competition template for CAMS VEX 687: The Nerd Herd for the 2020-2021 season. Your team's programming leader will fork this repository; you will make commits to your team's fork. Make sure your program meets our [Code Documentation Guidelines](https://github.com/687vex/Competition-Template-2020-2021/blob/main/CodeDocumentation.md)
 
 ## Editing Repositories
 If for some reason you want to clone the code locally, follow one of these methods:
