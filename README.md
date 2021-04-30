@@ -8,4 +8,18 @@
 <a href="https://github.com/687vex/VEX-687-Website"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/687vex/Competition-Template-2020-2021/?color=2b9348"></a>
 <a href="https://github.com/687vex/Competition-Template-2020-2021/blob/master/LICENSE"><img src="https://img.shields.io/github/license/687vex/Competition-Template-2020-2021/?color=2b9348" alt="License Badge"/></a>
 </div>
+
+<br>
+
 In this repository, you will find the official code template of CAMS VEX 687: The Nerd Herd for the 2020-2021 season. Enjoy!
+
+<br>
+
+# Contribute
+Contributions are always welcome! Please create a PR and include a description of how your PR will improve the overall website and what it does. [Making Contributions to a project guide](https://github.com/firstcontributions/first-contributions).
+
+## License
+This project is licensed under [GNU v3.0](https://opensource.org/licenses/GPL-3.0) license.
+
+## Support Us!
+Give this repo a ⭐️ if you found this project helpful!
