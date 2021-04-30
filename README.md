@@ -11,8 +11,31 @@
 
 <br>
 
-In this repository, you will find the official code template of CAMS VEX 687: The Nerd Herd for the 2020-2021 season. Enjoy!
+In this repository, you will find the competition template of CAMS VEX 687: The Nerd Herd for the 2020-2021 season. Enjoy!
 
+<br>
+
+# Competition Code Template
+
+## Instructions for Team 241:
+This is the competition template for CAMS VEX 687: The Nerd Herd for the 2020-2021 season. Your team's programming leader will fork this repository; you will make commits to your team's fork.
+
+## Editing Repositories
+If for some reason you want to clone the code locally, follow one of these methods:
+
+### Downloading from GitHub Website
+  1. Click the "Download Zip" Button at the bottom right of the page of the GitHub Repository
+  2. Extract the contents of the zip file
+  3. Note: main.c is the competition code
+
+### Downloading using GitHub Desktop from GitHub Website
+  1. Click the "Open with GitHub Desktop" Button at the bottom right of the page of the GitHub Repository
+  3. [Commiting with GitHub Desktop](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/committing-and-reviewing-changes-to-your-project#1-choosing-a-branch-and-making-changes)
+
+### Downloading using Git commands
+  1. Open cmd and navigate to an appropriate directory and run the following command:
+  <br> ```gh repo clone <repository> [<directory>] [-- <gitflags>...] ```
+  
 <br>
 
 # Contribute
