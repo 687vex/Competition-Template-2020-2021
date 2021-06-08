@@ -100,6 +100,6 @@ void forward(int ticks, int speed=80){ ... }
 - **@todo** _something that needs to be done_
 - **etc...**
 
-## Code Documentation Guidelines
+## Controller Map
 Programmers, refer to this when programming driver-based control!
 ![Controller Map](/assets/img/controllermap.jpg)
