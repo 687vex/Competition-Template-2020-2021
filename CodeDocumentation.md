@@ -28,15 +28,15 @@ Programmers, use this concise guide to help you quickly comment your code!
 ```c
 /** Drive used: Standard Drivetrain/Skid-Steer-Drive
  *   Skid-Steer-Drive configuration:
- *     FL             FR 
- *    XXXX           XXXX
- *    XXXX           XXXX
- *    XXXX           XXXX
- *    XXXXXXXXXXXXXXXXXXX
- *    XXXXXXXXXXXXXXXXXXX
- *    XXXX           XXXX
- *    XXXX           XXXX
- *     BL             BR 
+ *     FL              FR 
+ *    XXXX            XXXX
+ *    XXXX            XXXX
+ *    XXXX            XXXX
+ *    XXXXXXX  MW  XXXXXXX
+ *    XXXXXXXXXXXXXXXXXXXX
+ *    XXXX            XXXX
+ *    XXXX            XXXX
+ *     BL              BR 
 */
 ```
 
