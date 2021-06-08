@@ -11,7 +11,7 @@ Programmers, use this concise guide to help you quickly comment your code!
  * @author   FirstName LastName   687_   example@gmail.com
  * @author   FirstName LastName   687_   example@gmail.com
  *
-*/
+**/
 ```
 
 ### Sections
