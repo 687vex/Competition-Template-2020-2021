@@ -26,24 +26,24 @@ Programmers, use this concise guide to help you quickly comment your code!
 
 #### Standard Drivetrain/Skid Steer Drive Configuration
 ```c
-/** Drive used: H-Drive
- *   H-Drive configuration:
- *     FL             FR 
- *    XXXX           XXXX
- *    XXXX           XXXX
- *    XXXX           XXXX
- *    XXXXXXXXXXXXXXXXXXX
- *    XXXXXXXXXXXXXXXXXXX
- *    XXXX           XXXX
- *    XXXX           XXXX
- *     BL             BR 
+/** Drive used: Standard Drivetrain/Skid-Steer-Drive
+ *   Skid-Steer-Drive configuration:
+ *     FL              FR 
+ *    XXXX            XXXX
+ *    XXXX            XXXX
+ *    XXXX            XXXX
+ *    XXXXXXXXXXXXXXXXXXXX
+ *    XXXXXXXXXXXXXXXXXXXX
+ *    XXXX            XXXX
+ *    XXXX            XXXX
+ *     BL              BR 
 */
 ```
 
 #### H-Drive Configuration
 ```c
-/** Drive used: Standard Drivetrain/Skid-Steer-Drive
- *   Skid-Steer-Drive configuration:
+/** Drive used: H-Drive
+ *   H-Drive configuration:
  *     FL              FR 
  *    XXXX            XXXX
  *    XXXX            XXXX
