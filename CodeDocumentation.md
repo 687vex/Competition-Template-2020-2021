@@ -23,6 +23,22 @@ Programmers, use this concise guide to help you quickly comment your code!
 /////////////////////////////////////////////////////////////////////////////////////////
 ```
 
+### Drives
+```c
+/*Drive used: 
+ *  DriveUsed configuration:
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+*/
+```
+
 ### Functions
 ```c
 /**
