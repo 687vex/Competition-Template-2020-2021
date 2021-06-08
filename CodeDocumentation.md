@@ -5,8 +5,8 @@ Programmers, use this concise guide to help you quickly comment your code!
 ### Files
 ```c
 /**
- * @file  ExampleFile.c
- * @brief Description stating the purpose of the file.
+ * @file     ExampleFile.c
+ * @brief    Description stating the purpose of the file.
  *
  * @author   FirstName LastName   687_   example@gmail.com
  * @author   FirstName LastName   687_   example@gmail.com
