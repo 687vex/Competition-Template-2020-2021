@@ -25,18 +25,18 @@ Programmers, use this concise guide to help you quickly comment your code!
 
 ### Holonomic Drive/X-Drive Configuration
 ```c
-/*Drive used: Holonomic Drive/X-Drive
-  X-drive configuration:
-        X FRONT X
-      X           X
-    X  FL       FR  X
-            X
-           AXIS
-            X
-    X  BL       BR  X
-      X           X
-        X  BACK  X
-*/
+/** Drive used: Holonomic Drive/X-Drive
+ *   X-drive configuration:
+ *        X FRONT X
+ *      X           X
+ *    X  FL       FR  X
+ *            X
+ *           AXIS
+ *            X
+ *    X  BL       BR  X
+ *      X           X
+ *        X  BACK  X
+**/
 ```
 
 ### Functions
