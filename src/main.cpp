@@ -1,9 +1,9 @@
 /*----------------------------------------------------------------------------*/
 /*                                                                            */
 /*    Module:       main.cpp                                                  */
-/*    Author:       C:\Users\Miguel                                           */
-/*    Created:      Fri Apr 30 2021                                           */
-/*    Description:  V5 project                                                */
+/*    Author:       Author Name                                               */
+/*    Created:      Creation Date                                             */
+/*    Description:  Project Description                                       */
 /*                                                                            */
 /*----------------------------------------------------------------------------*/
 
