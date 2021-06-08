@@ -22,39 +22,9 @@ Programmers, use this concise guide to help you quickly comment your code!
 //
 /////////////////////////////////////////////////////////////////////////////////////////
 ```
+### Drivetrains
 
-### Holonomic Drive/X-Drive Configuration
-```c
-/** Drive used: Holonomic Drive/X-Drive
- *   X-drive configuration:
- *        X FRONT X
- *      X           X
- *    X  FL       FR  X
- *            X
- *           AXIS
- *            X
- *    X  BL       BR  X
- *      X           X
- *        X  BACK  X
-**/
-```
-### Holonomic Drivetrain/X-Drive Configuration
-```c
-/** Drive used: Holonomic Drivetrain/X-Drive
- *   X-drive configuration:
- *        X FRONT X
- *      X           X
- *    X  FL       FR  X
- *            X
- *           AXIS
- *            X
- *    X  BL       BR  X
- *      X           X
- *        X  BACK  X
-*/
-```
-
-### Standard Drivetrain/Skid Steer Drive Configuration
+#### Standard Drivetrain/Skid Steer Drive Configuration
 ```c
 /** Drive used: Standard Drivetrain/Skid Steer Drive
  *   Skid Steer Drive configuration:
@@ -68,6 +38,22 @@ Programmers, use this concise guide to help you quickly comment your code!
  *    XXXX           XXXX
  *     BL             BR 
 */
+```
+
+#### Holonomic Drive/X-Drive Configuration
+```c
+/** Drive used: Holonomic Drive/X-Drive
+ *   X-drive configuration:
+ *        X FRONT X
+ *      X           X
+ *    X  FL       FR  X
+ *            X
+ *           AXIS
+ *            X
+ *    X  BL       BR  X
+ *      X           X
+ *        X  BACK  X
+**/
 ```
 
 ### Functions
