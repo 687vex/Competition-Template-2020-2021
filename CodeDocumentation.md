@@ -1,5 +1,4 @@
 ## Code Documentation Guidelines
-
 Programmers, use this concise guide to help you quickly comment your code!
 
 ### Files
@@ -100,3 +99,7 @@ void forward(int ticks, int speed=80){ ... }
 - **@details** _more indepth description_
 - **@todo** _something that needs to be done_
 - **etc...**
+
+## Code Documentation Guidelines
+Programmers, refer to this when programming driver-based control!
+![Controller Map](/assets/img/controllermap.jpg)
