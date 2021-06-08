@@ -23,7 +23,7 @@ Programmers, use this concise guide to help you quickly comment your code!
 /////////////////////////////////////////////////////////////////////////////////////////
 ```
 
-### Drives
+### Drive Configuration
 ```c
 /*Drive used: 
  *  DriveUsed configuration:
