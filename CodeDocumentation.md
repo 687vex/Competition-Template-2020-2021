@@ -21,6 +21,33 @@ Programmers, use this concise guide to help you quickly comment your code!
 //
 /////////////////////////////////////////////////////////////////////////////////////////
 ```
+
+### Functions
+```c
+/**
+ * Description about what the function does
+ * and any notes for other developers.
+ *
+ * @param  parameterName  parameter description goes here
+ * @param  parameterName  parameter description goes here
+ *
+**/
+void forward(int ticks, int speed=80){ ... }
+```
+
+### In-Line Comment
+```c
+// describe a line or group of lines here
+```
+
+### Other Comment Commands
+
+- **@warning** _warning for other developers_
+- **@bug** _bugs in the program that need to be fixed_
+- **@details** _more indepth description_
+- **@todo** _something that needs to be done_
+- **etc...**
+
 ### Drivetrains
 
 #### Standard Drivetrain/Skid Steer Drive Configuration
@@ -70,32 +97,6 @@ Programmers, use this concise guide to help you quickly comment your code!
  *        X  BACK  X
 **/
 ```
-
-### Functions
-```c
-/**
- * Description about what the function does
- * and any notes for other developers.
- *
- * @param  parameterName  parameter description goes here
- * @param  parameterName  parameter description goes here
- *
-**/
-void forward(int ticks, int speed=80){ ... }
-```
-
-### In-Line Comment
-```c
-// describe a line or group of lines here
-```
-
-### Other Comment Commands
-
-- **@warning** _warning for other developers_
-- **@bug** _bugs in the program that need to be fixed_
-- **@details** _more indepth description_
-- **@todo** _something that needs to be done_
-- **etc...**
 
 ## Controller Map
 Programmers, refer to this when programming driver-based control!
