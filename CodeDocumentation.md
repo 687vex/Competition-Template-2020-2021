@@ -77,9 +77,6 @@ Programmers, use this concise guide to help you quickly comment your code!
  * Description about what the function does
  * and any notes for other developers.
  *
- * @author   FirstName LastName     example@gmail.com
- * @author   FirstName LastName     example@gmail.com
- *
  * @param  parameterName  parameter description goes here
  * @param  parameterName  parameter description goes here
  *
