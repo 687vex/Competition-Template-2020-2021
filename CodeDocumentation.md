@@ -40,6 +40,16 @@ void forward(int ticks, int speed=80){ ... }
 // describe a line or group of lines here
 ```
 
+### One-Line Comment
+```c
+/* one line comment of text */
+```
+
+### Half-Line Comment
+```c
+ [insert code] // half-line comment
+```
+
 ### Other Comment Commands
 
 - **@warning** _warning for other developers_
