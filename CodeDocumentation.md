@@ -32,7 +32,7 @@ Programmers, use this concise guide to help you quickly comment your code!
  * @param  parameterName  parameter description goes here
  *
 **/
-void forward(int ticks, int speed=80){ ... }
+void forward(int ticks, int speed=80) { ... }
 ```
 
 ### In-Line Comment
